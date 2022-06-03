@@ -1,4 +1,6 @@
 # data-analysis
+**Preview 0.1**
+
 The goal of this project is to learn the basics of pandas and matplotlib libraries 
 and create cool charts while drawing a conclusion from the analysis of the dataset.
 
